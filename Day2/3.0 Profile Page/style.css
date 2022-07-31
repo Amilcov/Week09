@@ -42,7 +42,7 @@ ul:not(.noBorder) {
 
 
 #pictureId {
-    background-image: url("./profilePic.png");
+    background-image: url("./img/profilePic.png");
     background-size: cover;
     border: 2px solid rgb(11, 36, 203);
     height: 120px;

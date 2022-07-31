@@ -51,25 +51,67 @@ window.onload = () => {
                      <table>
                      
                          <tr>
-                           <th> Project name </th>
-                           <th> Made with </th>
-                           <th> Preview </th>
+                           <th> PROJECT </th>
+                           <th> STACK </th>
+                           <th> PREVIEW </th>
                          </tr>  
                      
                        <tr>
                          <td> <a href= 'https://adriana-play-matching-game.netlify.app/'> Matching Game </a> </td>
                          <td> JS HTML CSS </td>
                          <td>  
-                           <img src="img/1_matching_game_start.png" alt="matching game preview picture" width="150" height="150"> 
-                           <img src="img/2_matching_game_play.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/1.1_matching_game_start.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/1.2_matching_game_play.png" alt="matching game preview picture" width="150" height="150"> 
                          </td>
                        </tr>
 
                         <tr>
                          <td> <a href='https://am2-mini-twitter-client.herokuapp.com/'> Mini Twitter </a> </td>
                          <td> JS HTML Node Express PUG Sequelize</td>
-                         <td> 3 </td>
+                         <td> 
+                           <img src="./img/2.1_Twiter_SignUpUser.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/2.2_Twiter_LoginUser.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/2.3_Twiter_ListsAllTweets.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/2.4_Twiter_createMessage.png" alt="matching game preview picture" width="150" height="150"> 
+                           <img src="./img/2.5_Twiter_DeleteMessage.png" alt="matching game preview picture" width="150" height="150"> 
+                        </td>
                        </tr>
+                       <tr> 
+                         <td>
+                           Tic Tac Toe Game:
+                           <ul class="noBorder">
+                             <li> <a href='https://adriana-play-tic-tac-toe.netlify.app'> 2 Playes </li>
+                             <li> <a href='https://adriana-play-tic-tac-toe-with-computer.netlify.app'> Play with Computer </li>
+                           </ul>
+
+                         </td>
+                         <td> JS HTML CSS </td>
+                         <td>  
+                            <img src="./img/3._TicTacToe.png" alt="matching game preview picture" width="150" height="150"> 
+                        </td>
+                       </tr>
+                       <tr> 
+
+                         <td>
+                           BattleShip Game:
+                           <ul class="noBorder">
+                             <li> <a href='https://adriana-play-battleship.netlify.app'> 1 Player </li>
+                             <li> <a href='https://adriana-play-battleship-with-computer.netlify.app'> Play with Computer </li>
+                             <li> <a href='https://adriana-play-battleship-against-computer.netlify.app'> Play against Computer </li>
+                           </ul>
+                         </td>
+
+                         <td> JS HTML CSS </td>
+                         <td>  
+                             <ul class="noBorder">
+                               <li> <img src="./img/4.1_.BattleShip_1Player.png" alt="matching game preview picture" width="150" height="150"> </li>
+                               <li> <img src="./img/4.2_.BattleShip_2Players.png" alt="matching game preview picture" width="150" height="150"> </li>
+                               <li> <img src="./img/4.3_.BattleShip_Against_Computer.png" alt="matching game preview picture" width="150" height="150"> </li>
+                             </ul> 
+                        </td>
+                       </tr>
+
+
 
                      </table>
                 
